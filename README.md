@@ -11,10 +11,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <img src="assets/project_deepgit.png" width="50" height="50">
-            </div>
-            <br>
+            <img src="assets/project_deepgit.png" width="50" height="50" align="left" style="margin-right: 10px;">
             <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Promoting Exploration and Discovery of Research Software with Human-Curated Graphs
             <br><br>⚡ Visual Interface, GraphRAG
           </td>
@@ -39,10 +36,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <img src="assets/project_xray.png" width="50" height="50">
-            </div>
-            <br>
+            <img src="assets/project_xray.png" width="70" height="50" align="left" style="margin-right: 10px;">
             <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Explain Abstract Argumentation Framework
             <br><br>⚡ Graph Reasoning,Explanation
           </td>
@@ -67,10 +61,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <img src="assets/project_logica.png" width="50" height="50">
-            </div>
-            <br>
+            <img src="assets/project_logica.png" width="70" height="50" align="left" style="margin-right: 10px;">
             <a href="https://github.com/evgskv/logica"><strong>Logica</strong></a>: A logic programming language that compiles to SQL and runs on DuckDB, BigQuery ...
             <br><br>⚡ Query Language, SQL
           </td>
@@ -97,10 +88,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <img src="assets/project_arviz.png" width="50" height="50">
-            </div>
-            <br>
+            <img src="assets/project_arviz.png" width="50" height="50" align="left" style="margin-right: 10px;">
             <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models with interactive visualizations
             <br><br>⚡ Bayesian Analysis, Panel, Python
           </td>
@@ -125,10 +113,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <img src="assets/project_maidr.jpg" width="50" height="50">
-            </div>
-            <br>
+            <img src="assets/project_maidr.jpg" width="80" height="50" align="left" style="margin-right: 10px;">
             <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessible statistical visualizations
             <br><br>⚡ Accessibility, Multimodal, Data Visualization
           </td>
@@ -153,10 +138,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <img src="assets/project_jlne.png" width="50" height="50">
-            </div>
-            <br>
+            <img src="assets/project_jlne.png" width="50" height="50" align="left" style="margin-right: 10px;">
             <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>Jupyterlab NodeEditor</strong></a>: JupyterLab extension for node-based visual programming
             <br><br>⚡ JupyterLab, Node Editor, Visual Programming
           </td>
