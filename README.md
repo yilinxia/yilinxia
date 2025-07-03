@@ -16,7 +16,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_deepgit.png" width="50" height="50"><br>
               </a>
             </div>
-            <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Promoting Exploration and Discovery of Research Software with Human-Curated Graphs
+            <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Exploration and Discovery of Research Software with Human-Curated Graphs
             <br><br>⚡ Visual Interface, GraphRAG
           </td>
         </tr>
@@ -158,7 +158,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_jlne.png" width="80" height="50"><br>
               </a>
             </div>
-            <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>Jupyterlab NodeEditor</strong></a>: JupyterLab extension for node-based visual programming
+            <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>Jupyterlab NodeEditor</strong></a>: Visual Programming Powered Jupyter Extension for Domain Experts
             <br><br>⚡ JupyterLab, Node Editor, Visual Programming
           </td>
         </tr>
