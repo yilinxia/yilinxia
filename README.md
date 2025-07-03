@@ -11,7 +11,9 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
-            <img src="assets/project_deepgit.png" width="50" height="50" align="center">
+            <div align="center">
+              <img src="assets/project_deepgit.png" width="50" height="50"><br>
+            </div>
             <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Promoting Exploration and Discovery of Research Software with Human-Curated Graphs
             <br><br>⚡ Visual Interface, GraphRAG
           </td>
