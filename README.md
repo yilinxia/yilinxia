@@ -158,7 +158,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_jlne.png" width="80" height="50"><br>
               </a>
             </div>
-            <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>Jupyterlab NodeEditor</strong></a>: Visual Programming Powered Jupyter Extension for Domain Experts
+            <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>Jupyterlab NodeEditor</strong></a>: Node-based Visual Programming Powered Jupyter Extension for Domain Experts
             <br><br>⚡ JupyterLab, Node Editor, Visual Programming
           </td>
         </tr>
