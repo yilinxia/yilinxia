@@ -10,7 +10,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     <td>
       <table>
         <tr>
-          <td width="300px" height="110px" valign="top" colspan="4">
+          <td width="250px" height="110px" valign="top" colspan="4">
             <div style="text-align: center; margin-bottom: 10px;">
               <img src="assets/project_deepgit.png" width="50" height="50">
             </div>
@@ -37,7 +37,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     <td>
       <table>
         <tr>
-          <td width="300px" height="110px" valign="top" colspan="4">
+          <td width="250px" height="110px" valign="top" colspan="4">
             <div style="text-align: center; margin-bottom: 10px;">
               <img src="assets/project_xray.png" width="50" height="50">
             </div>
@@ -64,7 +64,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     <td>
       <table>
         <tr>
-          <td width="300px" height="110px" valign="top" colspan="4">
+          <td width="250px" height="110px" valign="top" colspan="4">
             <div style="text-align: center; margin-bottom: 10px;">
               <img src="assets/project_logica.png" width="50" height="50">
             </div>
@@ -93,7 +93,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     <td>
       <table>
         <tr>
-          <td width="300px" height="110px" valign="top" colspan="4">
+          <td width="250px" height="110px" valign="top" colspan="4">
             <div style="text-align: center; margin-bottom: 10px;">
               <img src="assets/project_arviz.png" width="50" height="50">
             </div>
@@ -120,7 +120,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     <td>
       <table>
         <tr>
-          <td width="300px" height="110px" valign="top" colspan="4">
+          <td width="250px" height="110px" valign="top" colspan="4">
             <div style="text-align: center; margin-bottom: 10px;">
               <img src="assets/project_maidr.jpg" width="50" height="50">
             </div>
@@ -147,7 +147,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     <td>
       <table>
         <tr>
-          <td width="300px" height="110px" valign="top" colspan="4">
+          <td width="250px" height="110px" valign="top" colspan="4">
             <div style="text-align: center; margin-bottom: 10px;">
               <img src="assets/project_jlne.png" width="50" height="50">
             </div>
