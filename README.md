@@ -44,7 +44,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_xray.png" width="70" height="50"><br>
               </a>
             </div>
-            <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate andExplain Abstract Argumentation Framework
+            <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract Argumentation Framework
             <br><br>⚡ Graph Reasoning, XAI
           </td>
         </tr>
