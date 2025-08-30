@@ -108,7 +108,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
         <tr>
           <td align="center">
-            <a href="">
+            <a href="assets/SciPy_ArviZ.pdf">
               <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
             </a>
           </td>
@@ -164,7 +164,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
         <tr>
           <td align="center">
-            <a href="">
+            <a href="assets/SciPy_JLNE.pdf">
               <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
             </a>
           </td>
