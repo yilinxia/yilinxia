@@ -2,7 +2,7 @@
 
 I am a Ph.D. student advised by Dr. Bertram Ludäscher and Dr. Matthew Turk in the School of Information Sciences at the University of Illinois at Urbana-Champaign.
 
-I am broadly interested in Data Management, Knowledge Representation & Reasoning, and Data Visualization aiming to address data challenges through a Declarative Approach. My research is supported in part by GitHub Secure Open Source Fund, Google Academic Research Grants, Gemini Academic Program, and NumFOCUS Small Development Grants.
+I am broadly interested in Data Management, Knowledge Representation & Reasoning, and Data Visualization aiming to address data challenges through a Declarative Approach.
 
 <table>
   <tr height="300px">
@@ -34,29 +34,26 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
       </table>
     </td>
-    <!-- Card 2: XRAY -->
+    <!-- Card 2: DecViz -->
     <td>
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
-              <a href="https://github.com/idaks/xray">
-                <img src="assets/project_xray.png" width="70" height="50"><br>
+              <a href="https://github.com/yilinxia/DecViz">
+                <img src="assets/project_decviz.png" width="60" height="60"><br>
               </a>
             </div>
-            <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract Argumentation Framework
-            <br><br>⚡ Graph Reasoning, XAI
+            <a href="https://github.com/yilinxia/DecViz"><strong>DecViz</strong></a>: Transforms domain knowledge into graph visualizations via declarative programming
+            <br><br>⚡ Formalization, Visualization
           </td>
         </tr>
         <tr>
           <td align="center">
-            <a href="https://xray-n7sd5.ondigitalocean.app/assets/cr-xray.pdf">
-              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
-            </a>
           </td>
           <td align="center">
-            <a href="https://github.com/idaks/xray/stargazers">
-              <img src="https://img.shields.io/github/stars/idaks/xray?style=social" alt="GitHub stars" height="24">
+            <a href="https://github.com/yilinxia/DecViz/stargazers">
+              <img src="https://img.shields.io/github/stars/yilinxia/DecViz?style=social" alt="GitHub stars" height="24">
             </a>
           </td>
         </tr>
@@ -92,23 +89,76 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="300px">
-    <!-- Card 4: ArviZ Dashboard -->
+    <!-- Card 4: XRAY -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/idaks/xray">
+                <img src="assets/project_xray.png" width="70" height="50"><br>
+              </a>
+            </div>
+            <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate andExplain Abstract Argumentation Framework
+            <br><br>⚡ Graph Reasoning, XAI
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://xray-n7sd5.ondigitalocean.app/assets/cr-xray.pdf">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/idaks/xray/stargazers">
+              <img src="https://img.shields.io/github/stars/idaks/xray?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 5: ArgSemX -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xai-ca/argsemx">
+                <img src="assets/project_argsemx.png" width="110" height="90"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for exploring abstract argumentation framework semantics
+            <br><br>⚡ Argumentation Semantics
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+          </td>
+          <td align="center">
+            <a href="https://github.com/xai-ca/argsemx/stargazers">
+              <img src="https://img.shields.io/github/stars/xai-ca/argsemx?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 6: ArviZ Dashboard -->
     <td>
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/arviz-devs/arviz_dashboard">
-                <img src="assets/project_arviz.png" width="50" height="50"><br>
+                <img src="assets/project_arviz.png" width="60" height="60"><br>
               </a>
             </div>
             <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models with interactive visualizations
-            <br><br>⚡ Bayesian Analysis, Panel, Dashboard
+            <br><br>⚡ Bayesian Analysis, Panel
           </td>
         </tr>
         <tr>
           <td align="center">
-            <a href="assets/SciPy_ArviZ.pdf">
+            <a href="">
               <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
             </a>
           </td>
@@ -120,7 +170,9 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
       </table>
     </td>
-    <!-- Card 5: MAIDR -->
+  </tr>
+  <tr height="300px">
+    <!-- Card 7: MAIDR -->
     <td>
       <table>
         <tr>
@@ -148,7 +200,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
       </table>
     </td>
-    <!-- Card 6: jupyterlab_nodeeditor -->
+    <!-- Card 8: Jupyterlab NodeEditor -->
     <td>
       <table>
         <tr>
@@ -158,13 +210,13 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_jlne.png" width="80" height="50"><br>
               </a>
             </div>
-            <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>Jupyterlab NodeEditor</strong></a>: Node-based Visual Programming Powered Jupyter Extension for Domain Experts
+            <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>JLNE</strong></a>: Node-based Visual Programming Powered Jupyter Extension for Domain Experts
             <br><br>⚡ JupyterLab, Node Editor, Visual Programming
           </td>
         </tr>
         <tr>
           <td align="center">
-            <a href="assets/SciPy_JLNE.pdf">
+            <a href="">
               <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
             </a>
           </td>
@@ -175,6 +227,9 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
       </table>
+    </td>
+    <!-- Empty cell for layout -->
+    <td>
     </td>
   </tr>
 </table>
