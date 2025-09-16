@@ -73,7 +73,7 @@ jobs:
             // Find the specific star icon for this repository by looking for the pattern
             // and replace only the first occurrence (which should be the current repo)
             const starIconRegex = new RegExp(
-              `(<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="25px" alt="GitHub stars" style="vertical-align: (?:sub|middle);">)\\s*<span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: (?:sub|middle);">\\d+</span>`,
+              `(<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: (?:sub|middle);">)\\s*<span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: (?:sub|middle);">\\d+</span>`,
               'g'
             );
             
