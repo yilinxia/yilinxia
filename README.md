@@ -50,7 +50,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
           </td>
           <td align="center" valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">5</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">0</span>
           </td>
         </tr>
       </table>
@@ -76,7 +76,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">5</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">2031</span>
           </td>
         </tr>
       </table>
@@ -104,7 +104,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">5</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">2</span>
           </td>
         </tr>
       </table>
@@ -127,7 +127,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
           </td>
           <td align="center" valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">5</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">1</span>
           </td>
         </tr>
       </table>
@@ -183,7 +183,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">5</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">8</span>
           </td>
         </tr>
       </table>
@@ -209,7 +209,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">5</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">11</span>
           </td>
         </tr>
       </table>
@@ -235,7 +235,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">5</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">6</span>
           </td>
         </tr>
       </table>
