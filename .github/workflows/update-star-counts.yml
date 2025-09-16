@@ -1,0 +1,91 @@
+name: Update Star Counts
+
+on:
+  schedule:
+    # Run daily at 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+    
+    - name: Install dependencies
+      run: |
+        npm init -y
+        npm install axios
+    
+    - name: Update star counts
+      run: |
+        node << 'EOF'
+        const fs = require('fs');
+        const axios = require('axios');
+        
+        // List of repositories to track
+        const repos = [
+          'data-exp-lab/deepgit',
+          'yilinxia/DecViz',
+          'evgskv/logica',
+          'idaks/xray',
+          'xai-ca/argsemx',
+          'arviz-devs/arviz_dashboard',
+          'xability/maidr',
+          'cropsinsilico/jupyterlab_nodeeditor'
+        ];
+        
+        async function getStarCount(owner, repo) {
+          try {
+            const response = await axios.get(`https://api.github.com/repos/${owner}/${repo}`);
+            return response.data.stargazers_count;
+          } catch (error) {
+            console.error(`Error fetching stars for ${owner}/${repo}:`, error.message);
+            return 'N/A';
+          }
+        }
+        
+        async function updateReadme() {
+          const readmePath = 'README.md';
+          let readmeContent = fs.readFileSync(readmePath, 'utf8');
+          
+          for (const repo of repos) {
+            const starCount = await getStarCount(repo.split('/')[0], repo.split('/')[1]);
+            console.log(`${repo}: ${starCount} stars`);
+            
+            // Update the star count in the README
+            const repoName = repo.split('/')[1];
+            const starIconRegex = new RegExp(
+              `(<a href="https://github.com/${repo}/stargazers">\\s*<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\\s*</a>)`,
+              'g'
+            );
+            
+            readmeContent = readmeContent.replace(
+              starIconRegex,
+              `$1 <span style="font-size: 14px; color: #666; margin-left: 4px;">${starCount}</span>`
+            );
+          }
+          
+          fs.writeFileSync(readmePath, readmeContent);
+          console.log('README updated with new star counts');
+        }
+        
+        updateReadme().catch(console.error);
+        EOF
+    
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --staged --quiet || git commit -m "Update star counts [skip ci]"
+        git push
