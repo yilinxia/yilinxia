@@ -71,7 +71,7 @@ jobs:
             // Update the star count in the README
             const repoName = repo.split('/')[1];
             const starIconRegex = new RegExp(
-              `(<a href="https://github.com/${repo}/stargazers">\\s*<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\\s*</a>)\\s*<span style="font-size: 14px; color: #666; margin-left: 4px;">Loading\\.\\.\\.</span>`,
+              `(<a href="https://github.com/${repo}/stargazers">\\s*<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\\s*</a>)\\s*<!-- STAR_COUNT_PLACEHOLDER -->`,
               'g'
             );
             
