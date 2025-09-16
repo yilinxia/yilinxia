@@ -153,7 +153,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
               </a>
             </div>
             <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration.
-            <br><br>⚡ Crowd Reasoning, Visualization
+            <br><br>⚡ Crowd Reasoning, Graphs
           </td>
         </tr>
         <tr>
@@ -183,7 +183,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
               </a>
             </div>
             <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models
-            <br><br>⚡ Bayesian Analysis, Panel
+            <br><br>⚡ Bayesian Analysis, Model Comparison, Panel
           </td>
         </tr>
         <tr>
