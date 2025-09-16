@@ -29,7 +29,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/data-exp-lab/deepgit/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -54,7 +54,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/yilinxia/DecViz/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">0</span>
           </td>
         </tr>
       </table>
@@ -82,7 +82,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/evgskv/logica/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">2031</span>
           </td>
         </tr>
       </table>
@@ -112,7 +112,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/idaks/xray/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">2</span>
           </td>
         </tr>
       </table>
@@ -137,7 +137,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/xai-ca/argsemx/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">1</span>
           </td>
         </tr>
       </table>
@@ -195,7 +195,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/arviz-devs/arviz_dashboard/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">8</span>
           </td>
         </tr>
       </table>
@@ -223,7 +223,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/xability/maidr/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">11</span>
           </td>
         </tr>
       </table>
@@ -251,7 +251,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
             <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor/stargazers">
               <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">
-            </a> <!-- STAR_COUNT_PLACEHOLDER -->
+            </a> <span style="font-size: 14px; color: #666; margin-left: 4px;">6</span>
           </td>
         </tr>
       </table>
