@@ -27,7 +27,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -50,7 +50,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -76,7 +76,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -104,7 +104,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -127,7 +127,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           <td align="center" valign="middle">
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -183,7 +183,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -209,7 +209,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
@@ -235,7 +235,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" valign="middle">
-            <!-- STAR_COUNT_PLACEHOLDER -->
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">\n            <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
           </td>
         </tr>
       </table>
