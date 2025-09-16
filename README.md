@@ -142,7 +142,37 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
       </table>
     </td>
-    <!-- Card 6: ArviZ Dashboard -->
+    <!-- Card 6: CrowdIdea -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://crowdidea-8dcsa.ondigitalocean.app/">
+                <img src="assets/project_crowdidea.png" width="60" height="60"><br>
+              </a>
+            </div>
+            <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration.
+            <br><br>⚡ Crowd Reasoning, Visualization
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://dl.acm.org/doi/full/10.1145/3544548.3581021">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+            </a>
+          </td>
+          <td align="center">
+            <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png" width="24px" alt="Private Repository">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  
+  <tr height="300px">
+  <!-- Card 7: ArviZ Dashboard -->
     <td>
       <table>
         <tr>
@@ -170,9 +200,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
       </table>
     </td>
-  </tr>
-  <tr height="300px">
-    <!-- Card 7: MAIDR -->
+    <!-- Card 8: MAIDR -->
     <td>
       <table>
         <tr>
@@ -200,7 +228,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
       </table>
     </td>
-    <!-- Card 8: Jupyterlab NodeEditor -->
+    <!-- Card 9: Jupyterlab NodeEditor -->
     <td>
       <table>
         <tr>
@@ -228,8 +256,6 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
         </tr>
       </table>
     </td>
-    <!-- Empty cell for layout -->
-    <td>
-    </td>
+    
   </tr>
 </table>
