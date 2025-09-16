@@ -64,21 +64,28 @@ jobs:
           const readmePath = 'README.md';
           let readmeContent = fs.readFileSync(readmePath, 'utf8');
           
-          for (const repo of repos) {
+          // Process repos in order to update them one by one
+          for (let i = 0; i < repos.length; i++) {
+            const repo = repos[i];
             const starCount = await getStarCount(repo.split('/')[0], repo.split('/')[1]);
             console.log(`${repo}: ${starCount} stars`);
             
-            // Update the star count in the README
-            const repoName = repo.split('/')[1];
+            // Find the specific star icon for this repository by looking for the pattern
+            // and replace only the first occurrence (which should be the current repo)
             const starIconRegex = new RegExp(
-              `<!-- STAR_COUNT_PLACEHOLDER -->`,
+              `(<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars">)\\s*<span style="font-size: 14px; color: #666; margin-left: 4px;">\\d+</span>`,
               'g'
             );
             
-            readmeContent = readmeContent.replace(
-              starIconRegex,
-              `<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">${starCount}</span>`
-            );
+            // Replace only the first match for this iteration
+            let matchCount = 0;
+            readmeContent = readmeContent.replace(starIconRegex, (match, p1) => {
+              matchCount++;
+              if (matchCount === i + 1) {
+                return `${p1} <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">${starCount}</span>`;
+              }
+              return match;
+            });
           }
           
           fs.writeFileSync(readmePath, readmeContent);
