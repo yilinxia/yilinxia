@@ -44,7 +44,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_decviz.png" width="60" height="60"><br>
               </a>
             </div>
-            <a href="https://github.com/yilinxia/DecViz"><strong>DecViz</strong></a>: Transforms domain knowledge into graph visualizations via declarative programming
+            <a href="https://github.com/yilinxia/DecViz"><strong>DecViz</strong></a>: Transforms knowledge into graphs using declarative programming
             <br><br>⚡ Formalization, Visualization
           </td>
         </tr>
@@ -99,7 +99,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_xray.png" width="70" height="50"><br>
               </a>
             </div>
-            <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate andExplain Abstract Argumentation Framework
+            <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract Argumentation Framework
             <br><br>⚡ Graph Reasoning, XAI
           </td>
         </tr>
@@ -127,7 +127,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_argsemx.png" width="110" height="90"><br>
               </a>
             </div>
-            <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for exploring abstract argumentation framework semantics
+            <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for exploring Argumentation Framework semantics
             <br><br>⚡ Argumentation Semantics
           </td>
         </tr>
@@ -152,7 +152,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_arviz.png" width="60" height="60"><br>
               </a>
             </div>
-            <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models with interactive visualizations
+            <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models
             <br><br>⚡ Bayesian Analysis, Panel
           </td>
         </tr>
@@ -182,7 +182,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_maidr.jpg" width="80" height="50"><br>
               </a>
             </div>
-            <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessible statistical visualizations
+            <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessible visualizations
             <br><br>⚡ Accessibility, Multimodal, Data Visualization
           </td>
         </tr>
