@@ -142,7 +142,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_crowdidea.png" width="60" height="60"><br>
               </a>
             </div>
-            <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration.
+            <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration
             <br><br>⚡ Crowd Reasoning, Graphs
           </td>
         </tr>
