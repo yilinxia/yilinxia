@@ -209,7 +209,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
             </a>
           </td>
           <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">11</span>
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">13</span>
           </td>
         </tr>
       </table>
