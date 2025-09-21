@@ -87,8 +87,9 @@ header_content = """## Hi there, I am [Yilin Xia](https://yilinxia.com/)
 
 I am a Ph.D. student advised by Dr. Bertram Ludäscher and Dr. Matthew Turk in the School of Information Sciences at the University of Illinois at Urbana-Champaign.
 
-I am broadly interested in Data Management, Knowledge Representation & Reasoning, and Data Visualization aiming to address data challenges through a Declarative Approach. My research is supported in part by GitHub Secure Open Source Fund, Google Academic Research Grants, Gemini Academic Program, and NumFOCUS Small Development Grants.
+My work focuses on Data Management, Data Visualization, and Knowledge Representation & Reasoning, where I aim to address data challenges using Declarative Approaches.
 
+I receive support in part from the GitHub Secure Open Source Fund, Google Academic Research Grants, the Gemini Academic Program, and NumFOCUS Small Development Grants.
 """
 
 # Wrap in outer table

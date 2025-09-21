@@ -2,8 +2,9 @@
 
 I am a Ph.D. student advised by Dr. Bertram Ludäscher and Dr. Matthew Turk in the School of Information Sciences at the University of Illinois at Urbana-Champaign.
 
-I am broadly interested in Data Management, Knowledge Representation & Reasoning, and Data Visualization aiming to address data challenges through a Declarative Approach. My research is supported in part by GitHub Secure Open Source Fund, Google Academic Research Grants, Gemini Academic Program, and NumFOCUS Small Development Grants.
+My work focuses on Data Management, Data Visualization, and Knowledge Representation & Reasoning, where I aim to address data challenges using Declarative Approaches.
 
+I receive support in part from the GitHub Secure Open Source Fund, Google Academic Research Grants, the Gemini Academic Program, and NumFOCUS Small Development Grants.
 <table>
 <tr height="320px">
 <td>
@@ -83,7 +84,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2032
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2031
   </td>
 </tr>
 </table>
@@ -222,7 +223,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 13
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 11
   </td>
 </tr>
 </table>
