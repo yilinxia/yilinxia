@@ -17,7 +17,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Exploration and Discovery of Research Software with Human-Curated G...
+      <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Exploration and Discovery of Research Software with Graphs
       <br><br>⚡ Vis UI, GraphRAG
     </td>
   </tr>
@@ -70,7 +70,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/evgskv/logica"><strong>Logica</strong></a>: A logic programming language that compiles to SQL and runs on DuckD...
+      <a href="https://github.com/evgskv/logica"><strong>Logica</strong></a>: A logic programming language that compiles to SQL, runs on DuckDB...
       <br><br>⚡ Query, Logic
     </td>
   </tr>
@@ -83,7 +83,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2032
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2031
   </td>
 </tr>
 </table>
@@ -101,7 +101,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract Arg...
+      <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract AF
       <br><br>⚡ Graph Rsn, XAI
     </td>
   </tr>
@@ -130,7 +130,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for exploring Argumentation Framework semantics
+      <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for exploring AF semantics
       <br><br>⚡ AF Semantics
     </td>
   </tr>
@@ -209,7 +209,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessibl...
+      <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Representation for a11y visualiza...
       <br><br>⚡ A11y, Multimodal
     </td>
   </tr>
@@ -222,7 +222,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 13
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 11
   </td>
 </tr>
 </table>
@@ -238,7 +238,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>JLNE</strong></a>: Node-based Visual Programming Powered Jupyter Extension for Domain ...
+      <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>JLNE</strong></a>: Node-based Visual Programming Powered Jupyter Extension for Experts
       <br><br>⚡ VVVV, Extension
     </td>
   </tr>

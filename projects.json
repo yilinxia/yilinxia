@@ -5,7 +5,7 @@
         "logo_height": 80,
         "title": "DeepGit",
         "link": "https://github.com/data-exp-lab/deepgit",
-        "description": "Exploration and Discovery of Research Software with Human-Curated Graphs",
+        "description": "Exploration and Discovery of Research Software with Graphs",
         "keywords": "⚡ Vis UI, GraphRAG",
         "paper_link": "https://openreview.net/pdf?id=35iRjCwXLu",
         "stars": 5
@@ -27,7 +27,7 @@
         "logo_height": 80,
         "title": "Logica",
         "link": "https://github.com/evgskv/logica",
-        "description": "A logic programming language that compiles to SQL and runs on DuckDB, BigQuery ...",
+        "description": "A logic programming language that compiles to SQL, runs on DuckDB...",
         "keywords": "⚡ Query, Logic",
         "paper_link": "https://openproceedings.org/2024/conf/edbt/paper-253.pdf",
         "stars": 2031
@@ -38,7 +38,7 @@
         "logo_height": 80,
         "title": "XRAY",
         "link": "https://github.com/idaks/xray",
-        "description": "A visual interface designed to Instantiate and Explain Abstract Argumentation Framework",
+        "description": "A visual interface designed to Instantiate and Explain Abstract AF",
         "keywords": "⚡ Graph Rsn, XAI",
         "paper_link": "https://xray-n7sd5.ondigitalocean.app/assets/cr-xray.pdf",
         "stars": 2
@@ -49,7 +49,7 @@
         "logo_height": 110,
         "title": "ArgSemX",
         "link": "https://github.com/xai-ca/argsemx",
-        "description": "An interactive web app for exploring Argumentation Framework semantics",
+        "description": "An interactive web app for exploring AF semantics",
         "keywords": "⚡ AF Semantics",
         "paper_link": "",
         "stars": 1
@@ -82,7 +82,7 @@
         "logo_height": 100,
         "title": "MAIDR",
         "link": "https://github.com/xability/maidr",
-        "description": "Multimodal Access and Interactive Data Representation for accessible visualizations",
+        "description": "Multimodal Access and Interactive Representation for a11y visualizations",
         "keywords": "⚡ A11y, Multimodal",
         "paper_link": "https://dl.acm.org/doi/full/10.1145/3613904.3642730",
         "stars": 11
@@ -93,7 +93,7 @@
         "logo_height": 100,
         "title": "JLNE",
         "link": "https://github.com/cropsinsilico/jupyterlab_nodeeditor",
-        "description": "Node-based Visual Programming Powered Jupyter Extension for Domain Experts",
+        "description": "Node-based Visual Programming Powered Jupyter Extension for Experts",
         "keywords": "⚡ VVVV, Extension",
         "paper_link": "",
         "stars": 6
