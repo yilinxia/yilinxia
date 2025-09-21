@@ -60,7 +60,7 @@
         "logo_height": 80,
         "title": "CrowdIdea",
         "link": "https://go.illinois.edu/crowdidea",
-        "description": "Application fuses crowd insights, analytics, and causal exploration.",
+        "description": "Application fuses crowd insights, analytics, and causal exploration. (CHI'23)",
         "keywords": "⚡ Causal Graphs, Viz",
         "paper_link": "https://dl.acm.org/doi/full/10.1145/3544548.3581021",
         "stars": "private"
@@ -71,7 +71,7 @@
         "logo_height": 80,
         "title": "ArviZ Dashboard",
         "link": "https://github.com/arviz-devs/arviz_dashboard",
-        "description": "Bayesian Dashboard for exploratory analysis of Bayesian models (CHI'23)",
+        "description": "Bayesian Dashboard for exploratory analysis of Bayesian models",
         "keywords": "⚡ Bayesian Analysis, Panel",
         "paper_link": "",
         "stars": 8

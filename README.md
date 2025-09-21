@@ -83,7 +83,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2032
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2031
   </td>
 </tr>
 </table>
@@ -154,7 +154,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://go.illinois.edu/crowdidea"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration.
+      <a href="https://go.illinois.edu/crowdidea"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration. (CHI'23)
       <br><br>⚡ Causal Graphs, Viz
     </td>
   </tr>
@@ -185,7 +185,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models (CHI'23)
+      <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models
       <br><br>⚡ Bayesian Analysis, Panel
     </td>
   </tr>
@@ -222,7 +222,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 13
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 11
   </td>
 </tr>
 </table>
