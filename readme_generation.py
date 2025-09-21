@@ -13,8 +13,8 @@ def build_card(c):
     # Truncate description and keywords to ensure consistent height
     # Based on: "DeepGit: Exploration and Discovery of Research Software with Human-Curated Graphs" = 95 chars
     # Based on: "Query Language, SQL" = 19 chars
-    max_description_length = 70  # Length of DeepGit description
-    max_keywords_length = 19     # Length of "Query Language, SQL"
+    max_description_length = 100  # Increased for wider cards
+    max_keywords_length = 25      # Increased for wider cards
     
     description = c["description"]
     if len(description) > max_description_length:
@@ -62,7 +62,7 @@ def build_card(c):
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="{c["link"]}"><strong>{c["title"]}</strong></a>: {description}
       <br><br>{keywords}
     </td>

@@ -16,7 +16,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Exploration and Discovery of Research Software with Graphs
       <br><br>⚡ Vis UI, GraphRAG
     </td>
@@ -45,7 +45,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/yilinxia/DecViz"><strong>DecViz</strong></a>: Transforms knowledge into graphs using declarative programming
       <br><br>⚡ Formalize, Vis
     </td>
@@ -69,7 +69,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/evgskv/logica"><strong>Logica</strong></a>: A logic programming language that compiles to SQL, runs on DuckDB...
       <br><br>⚡ Query, Logic
     </td>
@@ -83,7 +83,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2032
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2031
   </td>
 </tr>
 </table>
@@ -100,7 +100,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract AF
       <br><br>⚡ Graph Rsn, XAI
     </td>
@@ -129,7 +129,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for exploring AF semantics
       <br><br>⚡ AF Semantics
     </td>
@@ -153,7 +153,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://go.illinois.edu/crowdidea"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration.
       <br><br>⚡ Causal Graphs
     </td>
@@ -184,7 +184,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models
       <br><br>⚡ Bayesian, Panel
     </td>
@@ -208,7 +208,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Interactive and Multi-Modal Approaches to Accessible Data Viz
       <br><br>⚡ A11y, Multimodal
     </td>
@@ -222,7 +222,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 13
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 11
   </td>
 </tr>
 </table>
@@ -237,7 +237,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
     </td>
   </tr>
   <tr height="120px">
-    <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://github.com/cropsinsilico/jupyterlab_nodeeditor"><strong>JLNE</strong></a>: Node-based Visual Programming Powered Jupyter Extension for Experts
       <br><br>⚡ VVVV, Extension
     </td>
