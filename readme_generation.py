@@ -62,7 +62,7 @@ def build_card(c):
     </td>
   </tr>
   <tr height="120px">
-    <td width="260px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
+    <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="{c["link"]}"><strong>{c["title"]}</strong></a>: {description}
       <br><br>{keywords}
     </td>
