@@ -83,7 +83,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2032
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2031
   </td>
 </tr>
 </table>
@@ -209,7 +209,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="220px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Representation for a11y visualiza...
+      <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Interactive and Multi-Modal Approaches to Accessible Data Viz
       <br><br>⚡ A11y, Multimodal
     </td>
   </tr>
@@ -222,7 +222,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 13
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 11
   </td>
 </tr>
 </table>

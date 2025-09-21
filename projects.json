@@ -82,7 +82,7 @@
         "logo_height": 100,
         "title": "MAIDR",
         "link": "https://github.com/xability/maidr",
-        "description": "Multimodal Access and Interactive Representation for a11y visualizations",
+        "description": "Interactive and Multi-Modal Approaches to Accessible Data Viz",
         "keywords": "⚡ A11y, Multimodal",
         "paper_link": "https://dl.acm.org/doi/full/10.1145/3613904.3642730",
         "stars": 11
