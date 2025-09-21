@@ -17,8 +17,8 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Exploration and Discovery of Research Software with Graphs
-      <br><br>⚡ Vis UI, GraphRAG
+      <a href="https://github.com/data-exp-lab/deepgit"><strong>DeepGit</strong></a>: Exploration and Discovery of Research Software with Human-Curated Graphs
+      <br><br>⚡ Vis Interface, GraphRAG
     </td>
   </tr>
   
@@ -46,8 +46,8 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/yilinxia/DecViz"><strong>DecViz</strong></a>: Transforms knowledge into graphs using declarative programming
-      <br><br>⚡ Formalize, Vis
+      <a href="https://github.com/yilinxia/DecViz"><strong>DecViz</strong></a>: Transforms knowledge into graphs using declarative programming language
+      <br><br>⚡ Formalization, Visualization
     </td>
   </tr>
   
@@ -70,8 +70,8 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/evgskv/logica"><strong>Logica</strong></a>: A logic programming language that compiles to SQL, runs on DuckDB...
-      <br><br>⚡ Query, Logic
+      <a href="https://github.com/evgskv/logica"><strong>Logica</strong></a>: A logic programming language that compiles to SQL, runs on DuckDB etc. (EDBT'24)
+      <br><br>⚡ Query, Logic Programming
     </td>
   </tr>
   
@@ -83,7 +83,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2032
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2031
   </td>
 </tr>
 </table>
@@ -101,8 +101,8 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract AF
-      <br><br>⚡ Graph Rsn, XAI
+      <a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract AF (ICAIL'25)
+      <br><br>⚡ Graph Reasoning, XAI
     </td>
   </tr>
   
@@ -130,7 +130,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for exploring AF semantics
+      <a href="https://github.com/xai-ca/argsemx"><strong>ArgSemX</strong></a>: An interactive web app for instantiating and exploring abstract AF semantics
       <br><br>⚡ AF Semantics
     </td>
   </tr>
@@ -155,7 +155,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
       <a href="https://go.illinois.edu/crowdidea"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration.
-      <br><br>⚡ Causal Graphs
+      <br><br>⚡ Causal Graphs, Viz
     </td>
   </tr>
   
@@ -185,8 +185,8 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models
-      <br><br>⚡ Bayesian, Panel
+      <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>ArviZ Dashboard</strong></a>: Bayesian Dashboard for exploratory analysis of Bayesian models (CHI'23)
+      <br><br>⚡ Bayesian Analysis, Panel
     </td>
   </tr>
   
@@ -209,8 +209,8 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </tr>
   <tr height="120px">
     <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-      <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Interactive and Multi-Modal Approaches to Accessible Data Viz
-      <br><br>⚡ A11y, Multimodal
+      <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Interactive and Multi-Modal Approaches to Accessible Data Viz (CHI'24)
+      <br><br>⚡ A11y, Multi-modal
     </td>
   </tr>
   
@@ -222,7 +222,7 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 13
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 11
   </td>
 </tr>
 </table>

@@ -5,8 +5,8 @@
         "logo_height": 80,
         "title": "DeepGit",
         "link": "https://github.com/data-exp-lab/deepgit",
-        "description": "Exploration and Discovery of Research Software with Graphs",
-        "keywords": "⚡ Vis UI, GraphRAG",
+        "description": "Exploration and Discovery of Research Software with Human-Curated Graphs",
+        "keywords": "⚡ Vis Interface, GraphRAG",
         "paper_link": "https://openreview.net/pdf?id=35iRjCwXLu",
         "stars": 5
     },
@@ -16,8 +16,8 @@
         "logo_height": 80,
         "title": "DecViz",
         "link": "https://github.com/yilinxia/DecViz",
-        "description": "Transforms knowledge into graphs using declarative programming",
-        "keywords": "⚡ Formalize, Vis",
+        "description": "Transforms knowledge into graphs using declarative programming language",
+        "keywords": "⚡ Formalization, Visualization",
         "paper_link": "",
         "stars": 0
     },
@@ -27,8 +27,8 @@
         "logo_height": 80,
         "title": "Logica",
         "link": "https://github.com/evgskv/logica",
-        "description": "A logic programming language that compiles to SQL, runs on DuckDB...",
-        "keywords": "⚡ Query, Logic",
+        "description": "A logic programming language that compiles to SQL, runs on DuckDB etc. (EDBT'24)",
+        "keywords": "⚡ Query, Logic Programming",
         "paper_link": "https://openproceedings.org/2024/conf/edbt/paper-253.pdf",
         "stars": 2031
     },
@@ -38,8 +38,8 @@
         "logo_height": 80,
         "title": "XRAY",
         "link": "https://github.com/idaks/xray",
-        "description": "A visual interface designed to Instantiate and Explain Abstract AF",
-        "keywords": "⚡ Graph Rsn, XAI",
+        "description": "A visual interface designed to Instantiate and Explain Abstract AF (ICAIL'25)",
+        "keywords": "⚡ Graph Reasoning, XAI",
         "paper_link": "https://xray-n7sd5.ondigitalocean.app/assets/cr-xray.pdf",
         "stars": 2
     },
@@ -49,7 +49,7 @@
         "logo_height": 110,
         "title": "ArgSemX",
         "link": "https://github.com/xai-ca/argsemx",
-        "description": "An interactive web app for exploring AF semantics",
+        "description": "An interactive web app for instantiating and exploring abstract AF semantics",
         "keywords": "⚡ AF Semantics",
         "paper_link": "",
         "stars": 1
@@ -61,7 +61,7 @@
         "title": "CrowdIdea",
         "link": "https://go.illinois.edu/crowdidea",
         "description": "Application fuses crowd insights, analytics, and causal exploration.",
-        "keywords": "⚡ Causal Graphs",
+        "keywords": "⚡ Causal Graphs, Viz",
         "paper_link": "https://dl.acm.org/doi/full/10.1145/3544548.3581021",
         "stars": "private"
     },
@@ -71,8 +71,8 @@
         "logo_height": 80,
         "title": "ArviZ Dashboard",
         "link": "https://github.com/arviz-devs/arviz_dashboard",
-        "description": "Bayesian Dashboard for exploratory analysis of Bayesian models",
-        "keywords": "⚡ Bayesian, Panel",
+        "description": "Bayesian Dashboard for exploratory analysis of Bayesian models (CHI'23)",
+        "keywords": "⚡ Bayesian Analysis, Panel",
         "paper_link": "",
         "stars": 8
     },
@@ -82,8 +82,8 @@
         "logo_height": 100,
         "title": "MAIDR",
         "link": "https://github.com/xability/maidr",
-        "description": "Interactive and Multi-Modal Approaches to Accessible Data Viz",
-        "keywords": "⚡ A11y, Multimodal",
+        "description": "Interactive and Multi-Modal Approaches to Accessible Data Viz (CHI'24)",
+        "keywords": "⚡ A11y, Multi-modal",
         "paper_link": "https://dl.acm.org/doi/full/10.1145/3613904.3642730",
         "stars": 11
     },

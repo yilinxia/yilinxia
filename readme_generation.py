@@ -14,7 +14,7 @@ def build_card(c):
     # Based on: "DeepGit: Exploration and Discovery of Research Software with Human-Curated Graphs" = 95 chars
     # Based on: "Query Language, SQL" = 19 chars
     max_description_length = 100  # Increased for wider cards
-    max_keywords_length = 25      # Increased for wider cards
+    max_keywords_length = 30     # Increased for wider cards
     
     description = c["description"]
     if len(description) > max_description_length:
