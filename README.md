@@ -21,13 +21,16 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
             <a href="https://openreview.net/pdf?id=35iRjCwXLu">
-              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper" style="vertical-align: sub;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper">
             </a>
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: sub;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: sub;">5</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">5</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -47,10 +50,13 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">0</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">0</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -70,13 +76,16 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
             <a href="https://openproceedings.org/2024/conf/edbt/paper-253.pdf">
-              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper" style="vertical-align: sub;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper">
             </a>
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">2032</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">2031</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -98,13 +107,16 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
             <a href="https://xray-n7sd5.ondigitalocean.app/assets/cr-xray.pdf">
-              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper" style="vertical-align: sub;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper">
             </a>
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">2</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">2</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -124,10 +136,13 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">1</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">1</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -142,18 +157,18 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
                 <img src="assets/project_crowdidea.png" width="60" height="60"><br>
               </a>
             </div>
-            <a href="https://github.com/arviz-devs/arviz_dashboard"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration
+            <a href="https://go.illinois.edu/crowdidea"><strong>CrowdIdea</strong></a>: Application fuses crowd insights, analytics, and causal exploration.
             <br><br>⚡ Crowd Reasoning, Graphs
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
             <a href="https://dl.acm.org/doi/full/10.1145/3544548.3581021">
-              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper" style="vertical-align: sub;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper">
             </a>
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" width="20px" alt="Private Repository" style="vertical-align: sub;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" width="20px" alt="Private Repository">
           </td>
         </tr>
       </table>
@@ -177,13 +192,16 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
             <a href="">
-              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper" style="vertical-align: sub;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper">
             </a>
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">8</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">8</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -203,13 +221,16 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
             <a href="https://dl.acm.org/doi/full/10.1145/3613904.3642730">
-              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper" style="vertical-align: sub;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper">
             </a>
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">13</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">11</span>
+            </div>
           </td>
         </tr>
       </table>
@@ -229,13 +250,16 @@ I am broadly interested in Data Management, Knowledge Representation & Reasoning
           </td>
         </tr>
         <tr>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
+          <td align="center" style="line-height: 1; vertical-align: middle;">
             <a href="">
-              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper" style="vertical-align: sub;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="15px" alt="Paper">
             </a>
           </td>
-          <td align="center" style="line-height: 1; vertical-align: bottom;">
-            <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars" style="vertical-align: middle;"> <span style="font-size: 14px; color: #666; margin-left: 4px; vertical-align: middle;">6</span>
+          <td align="center" style="line-height: 1; vertical-align: middle;">
+            <div style="display:inline-flex; align-items:center; justify-content:center;">
+              <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="15px" alt="GitHub stars">
+              <span style="font-size: 14px; color: #666; margin-left: 4px;">6</span>
+            </div>
           </td>
         </tr>
       </table>
