@@ -84,7 +84,7 @@ I receive support in part from the GitHub Secure Open Source Fund, Google Academ
   </a>
 </td>
   <td align="center" style="padding: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2063
+    <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center"> 2062
   </td>
 </tr>
 </table>
