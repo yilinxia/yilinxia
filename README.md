@@ -1,8 +1,6 @@
 ## Hi there, I am [Yilin Xia](https://yilinxia.com/)
 
-I am a Ph.D. student advised by Dr. Bertram Ludäscher and Dr. Matthew Turk in the School of Information Sciences at the University of Illinois at Urbana-Champaign.
-
-My work focuses on Data Management, Data Visualization, and Knowledge Representation & Reasoning, where I aim to address data challenges using Declarative Approaches.
+My research addresses fundamental challenges in querying, reasoning over, and explaining graph-structured knowledge. I utilize Declarative Approaches that combine symbolic logic with large language models, enabling scalable analytics, hybrid retrieval, and explainable multi-agent interaction. 
 
 I receive support in part from the GitHub Secure Open Source Fund, Google Academic Research Grants, the Gemini Academic Program, and NumFOCUS Small Development Grants.
 <table>
