@@ -19,8 +19,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -33,12 +31,20 @@ jobs:
         npm install axios
     
     - name: Update star counts
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         node << 'EOF'
         const fs = require('fs');
         const axios = require('axios');
-        
-        // List of repositories to track
+
+        const STAR_ICON =
+          '<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center">';
+
+        const STAR_VALUE_PATTERN = new RegExp(
+          `(${STAR_ICON.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\s*(\\d+|N\\/A)`,
+        );
+
         const repos = [
           'data-exp-lab/deepgit',
           'yilinxia/DecViz',
@@ -47,52 +53,98 @@ jobs:
           'xai-ca/argsemx',
           'arviz-devs/arviz_dashboard',
           'xability/maidr',
-          'cropsinsilico/jupyterlab_nodeeditor'
+          'cropsinsilico/jupyterlab_nodeeditor',
         ];
-        
+
         async function getStarCount(owner, repo) {
-          try {
-            const response = await axios.get(`https://api.github.com/repos/${owner}/${repo}`);
-            return response.data.stargazers_count;
-          } catch (error) {
-            console.error(`Error fetching stars for ${owner}/${repo}:`, error.message);
-            return 'N/A';
+          const headers = {
+            Accept: 'application/vnd.github+json',
+            'User-Agent': 'yilinxia-star-count-updater',
+          };
+          if (process.env.GITHUB_TOKEN) {
+            headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
           }
+
+          const maxAttempts = 3;
+          for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+            try {
+              const response = await axios.get(
+                `https://api.github.com/repos/${owner}/${repo}`,
+                { headers, timeout: 15000 },
+              );
+              return response.data.stargazers_count;
+            } catch (error) {
+              const status = error.response?.status;
+              const retryable = !status || status >= 500 || status === 403;
+              console.error(
+                `Attempt ${attempt}/${maxAttempts} failed for ${owner}/${repo}:`,
+                status || error.message,
+              );
+              if (!retryable || attempt === maxAttempts) {
+                return null;
+              }
+              await new Promise((resolve) => setTimeout(resolve, attempt * 2000));
+            }
+          }
+          return null;
         }
-        
+
+        function updateStarInCard(readmeContent, repo, starCount) {
+          const repoUrl = `https://github.com/${repo}`;
+          const cardStart = readmeContent.indexOf(repoUrl);
+          if (cardStart === -1) {
+            console.warn(`Could not find card for ${repo}`);
+            return readmeContent;
+          }
+
+          const cardEnd = readmeContent.indexOf('</table>', cardStart);
+          if (cardEnd === -1) {
+            console.warn(`Could not find card boundary for ${repo}`);
+            return readmeContent;
+          }
+
+          const card = readmeContent.slice(cardStart, cardEnd);
+          if (!STAR_VALUE_PATTERN.test(card)) {
+            console.warn(`Could not find star count for ${repo}`);
+            return readmeContent;
+          }
+
+          const updatedCard = card.replace(STAR_VALUE_PATTERN, `$1 ${starCount}`);
+          return readmeContent.slice(0, cardStart) + updatedCard + readmeContent.slice(cardEnd);
+        }
+
         async function updateReadme() {
           const readmePath = 'README.md';
           let readmeContent = fs.readFileSync(readmePath, 'utf8');
-          
-          // Process repos in order to update them one by one
-          for (let i = 0; i < repos.length; i++) {
-            const repo = repos[i];
-            const starCount = await getStarCount(repo.split('/')[0], repo.split('/')[1]);
+          let updatedCount = 0;
+          let skippedCount = 0;
+
+          for (const repo of repos) {
+            const [owner, name] = repo.split('/');
+            const starCount = await getStarCount(owner, name);
+
+            if (starCount === null) {
+              console.warn(`${repo}: keeping existing value after fetch failure`);
+              skippedCount++;
+              continue;
+            }
+
+            const nextContent = updateStarInCard(readmeContent, repo, starCount);
+            if (nextContent !== readmeContent) {
+              updatedCount++;
+            }
+            readmeContent = nextContent;
             console.log(`${repo}: ${starCount} stars`);
-            
-            // Find the specific star icon for this repository by looking for the pattern
-            // and replace only the first occurrence (which should be the current repo)
-            const starIconRegex = new RegExp(
-              `(<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center">)\\s+\\d+`,
-              'g'
-            );
-            
-            // Replace only the first match for this iteration
-            let matchCount = 0;
-            readmeContent = readmeContent.replace(starIconRegex, (match, p1) => {
-              matchCount++;
-              if (matchCount === i + 1) {
-                return `${p1} ${starCount}`;
-              }
-              return match;
-            });
           }
-          
+
           fs.writeFileSync(readmePath, readmeContent);
-          console.log('README updated with new star counts');
+          console.log(`README updated (${updatedCount} repos updated, ${skippedCount} skipped)`);
         }
-        
-        updateReadme().catch(console.error);
+
+        updateReadme().catch((error) => {
+          console.error(error);
+          process.exit(1);
+        });
         EOF
     
     - name: Commit changes
