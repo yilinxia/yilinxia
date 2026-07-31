@@ -73,13 +73,13 @@ I receive support in part from the GitHub Secure Open Source Fund, Google Academ
 </tr>
 <tr height="120px">
 <td width="250px" colspan="4" valign="top" style="padding: 10px; font-size: 12px;">
-<a href="https://github.com/idaks/xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract AF (ICAIL'25)
+<a href="https://github.com/yilinxia/af-xray"><strong>XRAY</strong></a>: A visual interface designed to Instantiate and Explain Abstract AF (ICAIL'25)
 <br><br>⚡ Graph Reasoning, XAI
 </td>
 </tr>
 <tr height="40px">
 <td align="center" style="padding: 10px;">
-<a href="https://xray-n7sd5.ondigitalocean.app/assets/cr-xray.pdf">
+<a href="https://dl.acm.org/doi/full/10.1145/3769126.3769246">
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="20px" alt="Paper" align="center">
 </a>
 </td>
