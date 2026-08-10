@@ -38,11 +38,10 @@ jobs:
         const fs = require('fs');
         const axios = require('axios');
 
-        const STAR_ICON =
-          '<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" align="center">';
+        const STAR_ICON = '<span>★</span>';
 
         const STAR_VALUE_PATTERN = new RegExp(
-          `(${STAR_ICON.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\s*(\\d+|N\\/A)`,
+          `(${STAR_ICON.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})[\\s\\S]{0,20}?(\\d+|N\\/A)`,
         );
 
         const repos = [
