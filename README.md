@@ -29,8 +29,7 @@ I receive support in part from the GitHub Secure Open Source Fund, Google Academ
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="20px" alt="Paper" align="center">
 </a>
 </td>
-<td align="center" style="padding: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="vertical-align: middle;">2127</span>
+<td align="center" style="padding: 10px;"> <span>★</span> 2127
 </td>
 </tr>
 </table>
@@ -56,9 +55,7 @@ I receive support in part from the GitHub Secure Open Source Fund, Google Academ
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="20px" alt="Paper" align="center">
 </a>
 </td>
-<td align="center" style="padding: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="vertical-align: middle;">11</span>
-</td>
+<td align="center" style="padding: 10px;"> <span>★</span>11 </td>
 </tr>
 </table>
 </td>
@@ -83,8 +80,7 @@ I receive support in part from the GitHub Secure Open Source Fund, Google Academ
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg" width="20px" alt="Paper" align="center">
 </a>
 </td>
-<td align="center" style="padding: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" width="20px" alt="GitHub stars" style="vertical-align: middle;"> <span style="vertical-align: middle;">2</span>
+<td align="center" style="padding: 10px;"> <span>★</span> 2
 </td>
 </tr>
 </table>
